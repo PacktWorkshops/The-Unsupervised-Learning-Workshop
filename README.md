@@ -17,7 +17,7 @@ To get started with the project files, you'll need to:
 You already know you want to understand unsupervised learning, and a smarter way to do that is to learn by doing. The Unsupervised Learning Workshop focuses on building up your practical skills so that you can deploy and build solutions that leverage key unsupervised learning algorithms. You'll learn from real examples that lead to real results. 
 
 ## What you will learn
-* LGet to grips with the fundamental of unsupervised learning algorithms 
+* Get to grips with the fundamental of unsupervised learning algorithms 
 * Learn how to find suitable Python libraries for solving problems 
 * Grasp the fundamentals of artificial neural networks 
 * Find out the different techniques for cleaning the data 
