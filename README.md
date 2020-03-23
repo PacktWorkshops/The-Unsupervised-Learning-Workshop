@@ -1,14 +1,10 @@
 # The Unsupervised Learning Workshop
-[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Unsupervised-Learning-Workshop
-.svg)](https://github.com/PacktWorkshops/The-Clojure-Workshop/issues)
-[![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Unsupervised-Learning-Workshop
-.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop
+[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Clojure-Workshop/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop
 /network)
-[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Unsupervised-Learning-Workshop
-.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop
+[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop
 /stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop
-/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/pulls)
 
 This is the repository for The Unsupervised Learning Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
