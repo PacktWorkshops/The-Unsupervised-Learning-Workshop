@@ -1,5 +1,5 @@
 # The Unsupervised Learning Workshop
-[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Clojure-Workshop/issues)
+[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/pulls)
