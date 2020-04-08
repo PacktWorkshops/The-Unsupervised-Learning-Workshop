@@ -7,7 +7,7 @@
 This is the repository for The Unsupervised Learning Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://www.packtpub.com/programming/the-clojure-workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Clojure%20Workshop.png" alt="The Clojure Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
+
 
 To get started with the project files, you'll need to:
 1. Install Python on [Windows/Mac/Linux](https://www.python.org/downloads/)
