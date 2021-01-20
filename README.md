@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Unsupervised-Learning-Workshop.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Unsupervised-Learning-Workshop/pulls)
 
-This is the repository for The [Unsupervised Learning Workshop](https://www.amazon.com/Unsupervised-Learning-Workshop-unsupervised-unorganized/dp/1800200706/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611062803&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070515&utm_term=Unsupervised%20Learning&utm_content=The%20Unsupervised%20Learning%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
+This is the repository for [The Unsupervised Learning Workshop](https://www.amazon.com/Unsupervised-Learning-Workshop-unsupervised-unorganized/dp/1800200706/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611062803&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070515&utm_term=Unsupervised%20Learning&utm_content=The%20Unsupervised%20Learning%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
 <a href="https://www.amazon.com/Unsupervised-Learning-Workshop-unsupervised-unorganized/dp/1800200706/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611062803&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070515&utm_term=Unsupervised%20Learning&utm_content=The%20Unsupervised%20Learning%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B16061_The%20Applied%20AI%20and%20NLP%20Workshop.png" alt="The Applied AI and Natural Language Processing with AWS Workshop" height="290px" width="230px" align="right" this.target="_blank"></a>
@@ -15,7 +15,7 @@ To get started with the project files, you'll need to:
 2. Install Anaconda on [Windows/Mac/Linux](https://www.anaconda.com/distribution/#download-section)
 
 ## About The Unsupervised Learning Workshop
-With the help of engaging practical activities, [Unsupervised Learning Workshop](https://www.amazon.com/Unsupervised-Learning-Workshop-unsupervised-unorganized/dp/1800200706/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611062803&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070515&utm_term=Unsupervised%20Learning&utm_content=The%20Unsupervised%20Learning%20Workshop) teaches you how to apply unsupervised machine learning algorithms on enormous, cluttered datasets. You’ll learn the best techniques and approaches and work on real-time datasets with this hands-on guide for beginners.
+With the help of engaging practical activities, [The Unsupervised Learning Workshop](https://www.amazon.com/Unsupervised-Learning-Workshop-unsupervised-unorganized/dp/1800200706/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611062803&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070515&utm_term=Unsupervised%20Learning&utm_content=The%20Unsupervised%20Learning%20Workshop) teaches you how to apply unsupervised machine learning algorithms on enormous, cluttered datasets. You’ll learn the best techniques and approaches and work on real-time datasets with this hands-on guide for beginners.
 
 ## What you will learn
 * Distinguish between hierarchical clustering and the k-means algorithm
